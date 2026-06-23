@@ -143,6 +143,8 @@ How it works
 ---
 
 🏗️ System Architecture
+
+```text
                         +----------------------+
                         |      React Client    |
                         |  (UI + API + Socket) |
